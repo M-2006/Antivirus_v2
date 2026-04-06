@@ -75,7 +75,7 @@ Utilities
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/M-2006/Antivirus_v2.git
+```git clone https://github.com/M-2006/Antivirus_v2.git
 cd Antivirus_v2
 Virtual Environment
 python -m venv venv
