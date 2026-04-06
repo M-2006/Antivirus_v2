@@ -1,0 +1,7 @@
+psutil
+requests
+scikit-learn
+numpy
+joblib
+watchdog
+flask
